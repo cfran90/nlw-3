@@ -1,3 +1,8 @@
+Primeiro dia:
+- Criação do projeto;
+- Criação da landing page com auxílio do projeto no Figma (https://www.figma.com);
+- Adicionando rotas e map (https://www.openstreetmap.org);
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
