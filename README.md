@@ -11,6 +11,11 @@ Terceiro dia:
 - Listagem dos orfanatos;
 - Cadastro dos orfanatos.
 
+Quarto dia:
+- Criação do projeto mobile;
+- Adicionando componentes: mapa e navegação;
+- Mostrando mapa com marcação estática e navegação para rota simples.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
